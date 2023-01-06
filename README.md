@@ -2,13 +2,8 @@
 
  Simple example python flask crud app for sqlite.
  
-## Screenshots
 
-
-![image](screenshots.png)  
- 
- 
-### Installing (for linux)
+### Installing 
 
 open the terminal and follow the white rabbit.
 
